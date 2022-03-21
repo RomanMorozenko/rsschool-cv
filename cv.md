@@ -16,12 +16,12 @@
 
 ## Education: 
 
+**Higher Education** : Bachelor of Management in  MGUTM Moscow, Russia  (*2011-2016*)
+
 *Courses*:
 * FreeCodeCamp Responsive Web Design\
 * FreeCodeCamp Javascript Algorithms and Data Structures\
 * learn.javascript.ru
-
-**Higher Education** : Bachelor of Management in  MGUTM Moscow, Russia  (*2011-2016*)
 
 ## Code sample: 
 
