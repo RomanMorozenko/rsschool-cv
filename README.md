@@ -1,3 +1,3 @@
 # rsschool-cv
 
-[Roman Morozenko CV](https://GITHUB-USERNAME.github.io/rsschool-cv/cv)
+[Roman Morozenko CV](https://RomanMorozenko.github.io/rsschool-cv/cv)
